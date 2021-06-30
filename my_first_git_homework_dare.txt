@@ -1,0 +1,48 @@
+Homework: Lesson 7 – Git & GitHub
+
+Question 1
+
+Complete definitions for key Git & GitHub terminology
+
+GIT WORKFLOW FUNDAMENTALS
+• Working Directory (or Working Tree) - consists of files that you are currently working on.
+• Staging Area (or Index) - where commits are prepared
+• Repository (or Repo) - is the 'container' that tracks the changes to your project files
+• Local Repo (head) - is hosted on a local machine for an individual user
+• Remote repo (master) - is hosted on a remote or off-site server that is shared among multiple team members
+
+WORKING DIRECTORY STATES:
+• Modified - the change will only be found in the working directory
+• Staged - the changes (if you want to include them) in your next commit
+• Committed - The modified files will be safely stored in the repo. You can add a message describing what you changed
+
+GIT COMMANDS:
+• Git add - used to add files to the staging area
+Syntax git add <file_name.txt>
+
+• Git commit -  creates a snapshot of the changes and save it to the git directory.
+Syntax git commit -m "Message to go with the commit here (usually about changes made)"
+
+• Git push - used to send local commits to the master branch of the remote repository.
+Syntax git push origin <master>
+
+• Git fetch - allows users to fetch all objects from the remote repository that don’t currently reside in the local working directory.
+Syntax git fetch origin
+
+• Git merge - used to merge a branch into the active one.
+Syntax git merge <branch-name>
+
+• Git pull - merges all the changes present in the remote repository to the local working directory.
+Syntax git pull
+
+Question 2
+
+Note that from now on we will be actively using Git & GitHub to share materials and manage our code, as well as homework.
+
+TASK
+• In your GitHub create a new repo called Homework.
+• Add your instructor as a collaborator to this repo, so they can access your homework submissions in the future and comment on your code.
+• Clone this repo to your machine
+• Create a new file called my_first_git_homework_<your_name>.txt
+• Commit and push it to the remote repo
+• Ensure that the new file can be seen in your GitHub when you access it
