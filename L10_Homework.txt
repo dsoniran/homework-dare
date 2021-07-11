@@ -1,0 +1,56 @@
+Lesson 10 Homework
+Agile Techniques
+
+Scrum Ceremonies
+- Sprint
+A Sprint (aka iteration or timebox) is the basic unit of development in Scrum.
+The length is agreed and fixed in advance each sprint and is normally between 1-4 weeks.
+
+1. Sprint planning
+Each Sprint starts with Sprint Planning, which is an event where a sprint goal is agreed and a sprint backlog is created.
+The sprint backlog is extracted from the product backlog, which will be the decided work for the upcoming sprint.
+
+2. Product backlog refinement
+This is the ongoing process of reviewing and amending/updating/re-ordering product backlog items in light of new
+information.
+Refinement means tht items are appropriately prepared and ordered in a way that makes them clear and executable for the
+development team for sprint planning.
+
+3. Daily Scrum
+Each day during a Sprint, facilitated by the ScrumMaster, involving the development team and possibly the product owner,
+ hold a daily scrum (or Stand Up).
+The focus is on three areas:
+ - What have you completed?
+ - What will you be working on?
+ - What are your impediments?
+The Daily Scrum is usually limited to 15 minutes.
+
+4. Sprint review
+At the end of each Sprint is a Sprint Review, which details the progress shown to stakeholders to elicit the feedback.
+Presents a demonstration of the completed work, the implication of incomplete work, receiving suggestions/guidance for
+upcoming work.
+NOTE: Incomplete work should not be demonstrated, although stakeholders should be presented with product increments.
+
+5. Sprint retrospective
+At the end of each Sprint is a Sprint Retrospective, which identifies lessons and improvements for the next sprint. (SWOT? 5Ws?)
+The focus that should be considered are:
+ - What went well during the sprint?
+ - What did not go well during the sprint?
+ - What could we do differently the next sprint?
+
+Scrum Roles
+1. ScrumMaster
+Scrum is facilitated by a Scrum Master, as such that person is accountable for establishing Scrum, helping all
+participants understand Scrum theory and practice as well as the Scrum Team's effectiveness.
+
+2. Product Owner
+The Product Owner represents the product's stakeholders as well as speaking on behalf of the customer. They are
+responsible for delivering good business results.
+The Product owner is accountable for the product backlog and views the product from a customer-centric outcome
+(typically but not limited to user-end)
+
+3. Development Team
+The Development Team carry out all the work require to build incremental value each sprint.
+The team consists of anyone who play a role in the development and support of the product or software (such as
+researchers, architects, designers, analysts, etc.)
+They are responsible for reviewing items in the spring backlog, participating in Sprint rounds to deliver.
